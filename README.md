@@ -9,5 +9,7 @@ php_for_laravel_developers
 - V0.4: Seperar la configuració (confg.php) del codi -> Implementat la 0 de SOLID -> Open To Extension closed to modifcation
 - V0.5: Refactorització POO, afegit composer.json i autoload. Namespaces
 - V0.6: Container -> Implementar D de SOLID Dependency Inversion Principle -> Inverter -> Inversor Containerd -> APP
-
+- V0.7: Fitxer .env -> Exemples ús de paquets PHP Composer de tercers
+- V0.8: Refactorització helepers per utilitzar composer autoload
+- 
 Creat per Isaac Andreu
