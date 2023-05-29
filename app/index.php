@@ -1,11 +1,13 @@
 <?php
 
+use framework\Database\Database;
+
 require 'config.php';
 
 require 'app/helpers.php';
 
-require 'app/Task.php';
-
-$tasks = fetchAllTasks(connectDB($config));
+$database = new Database($config);
+$tasks = $database->selectAll('tasks');
 
 $greeting = greet();
+
