@@ -11,5 +11,5 @@ php_for_laravel_developers
 - V0.6: Container -> Implementar D de SOLID Dependency Inversion Principle -> Inverter -> Inversor Containerd -> APP
 - V0.7: Fitxer .env -> Exemples ús de paquets PHP Composer de tercers
 - V0.8: Refactorització helepers per utilitzar composer autoload
-- 
+- V0.9: 
 Creat per Isaac Andreu
