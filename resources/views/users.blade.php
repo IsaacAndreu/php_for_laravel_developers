@@ -21,7 +21,7 @@
                         <h3 class="truncate text-sm font-medium text-gray-900"><?= $user->name; ?>  <?= $user->surname; ?> </h3>
                         <span class="inline-block flex-shrink-0 rounded-full bg-green-100 px-2 py-0.5 text-xs font-medium text-green-800"><?= $user->role; ?></span>
                     </div>
-                    <p class="mt-1 truncate text-sm text-gray-500"><?= $user->job; ?></p>
+                    <p class="mt-1 truncate text-sm text-gray-500"><?= $user->email; ?></p>
                 </div>
                 <img class="h-10 w-10 flex-shrink-0 rounded-full bg-gray-300"
                      src="https://media.istockphoto.com/id/1083281494/es/vector/icono-de-empresario.jpg?s=612x612&w=0&k=20&c=IUWAPkzFkZGI1wyI07z7qMTHX1AIreGJb5HA_gWJ2_I="
@@ -36,7 +36,6 @@
                             <path d="M3 4a2 2 0 00-2 2v1.161l8.441 4.221a1.25 1.25 0 001.118 0L19 7.162V6a2 2 0 00-2-2H3z"/>
                             <path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z"/>
                         </svg>
-                        <span class="ml-3"><?= $user->mail; ?></span>
                         </a>
                     </div>
                     <div class="relative inline-flex w-0 flex-1 items-center justify-center rounded-br-lg border border-transparent py-4 text-sm font-medium text-gray-700 hover:text-gray-500">
