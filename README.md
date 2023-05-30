@@ -1,3 +1,8 @@
+# Aplicació final
+Podeu veure el resultat d'aquesta aplicació a:
+
+http://phpforlaravel.isaacandreu.me/
+
 # php_for_laravel_developers
 php_for_laravel_developers
 
@@ -13,4 +18,8 @@ php_for_laravel_developers
 - V0.8: Refactorització helepers per utilitzar composer autoload
 - V0.9: Primera versió per acabar del encaminador o Router
 - V1.0: Refactorització de les vistes utilitzant layout. Codi DRY
+
+
+
+
 Creat per Isaac Andreu

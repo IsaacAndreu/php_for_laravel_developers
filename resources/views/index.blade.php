@@ -10,7 +10,6 @@
     </header>
     <main>
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <h1 class="mt-5 mb-5"><?=$greeting;?></h1>
 
             <div class="mt-8 flex flex-col">
                 <div class="-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8">
